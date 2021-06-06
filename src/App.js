@@ -8,6 +8,10 @@ import WhatGPT3 from "./components/containers/whatGPT3/WhatGPT3";
 import CTA from "./components/cta/CTA";
 import Brand from "./components/brand/Brand";
 import Navbar from "./components/navbar/Navbar";
+
+import "./App.css";
+import "./index.css";
+
 const App = () => {
   return (
     <div className="App">
