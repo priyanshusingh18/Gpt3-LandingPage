@@ -1,7 +1,7 @@
 import React from "react";
-import "/possibility.css";
-const Article = () => {
+import "./possibility.css";
+const Possibility = () => {
   return <div></div>;
 };
 
-export default Article;
+export default Possibility;

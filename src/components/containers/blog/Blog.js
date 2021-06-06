@@ -1,7 +1,7 @@
 import React from "react";
-import "/blog.css";
-const Article = () => {
+import "./blog.css";
+const Blog = () => {
   return <div></div>;
 };
 
-export default Article;
+export default Blog;

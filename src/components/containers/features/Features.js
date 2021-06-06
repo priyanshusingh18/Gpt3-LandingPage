@@ -1,7 +1,7 @@
 import React from "react";
-import "/features.css";
-const Article = () => {
+import "./features.css";
+const Features = () => {
   return <div></div>;
 };
 
-export default Article;
+export default Features;
