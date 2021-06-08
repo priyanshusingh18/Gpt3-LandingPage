@@ -45,3 +45,14 @@
   line-height: 24px;
   color: var(--color-text);
 }
+
+@media screen and (max-width: 500px) {
+  .gpt3__feature-container__feature-title {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .gpt3__feature-container__feature-text p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
