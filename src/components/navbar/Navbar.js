@@ -9,19 +9,19 @@ const Navbar = () => {
     return (
       <>
         <p>
-          <a href="#home"></a> Home
+          <a href="#home">Home</a>
         </p>
         <p>
-          <a href="#wgpt3"></a> what is GPT3?
+          <a href="#wgpt3"> what is GPT3?</a>
         </p>
         <p>
-          <a href="#possibility"></a> Open AI
+          <a href="#possibility"> Open AI</a>
         </p>
         <p>
-          <a href="#features"></a> Case Studies
+          <a href="#features">Case Studies</a>
         </p>
         <p>
-          <a href="#blog"></a>Library
+          <a href="#blog">Library</a>
         </p>
       </>
     );
