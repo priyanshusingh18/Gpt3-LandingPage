@@ -1,5 +1,5 @@
 import React from "react";
-import Article from "../../article/article";
+import Article from "../../article/Article";
 import "./blog.css";
 import blog01 from "../../../assets/blog01.png";
 import blog02 from "../../../assets/blog02.png";
