@@ -1,7 +1,10 @@
 
 # Project
 ![App Screenshot](https://res.cloudinary.com/marto1/image/upload/v1637750131/Gpt3_dgr2uu.png)
-GPT3 LANDING PAGE
+
+## Live Demo
+https://gpt-3-ai.netlify.app
+
 
 
 # Project Description
@@ -19,6 +22,7 @@ our needs and capablities.
 
 The design was not responsive, so i had to use the power of imagination 
 and creativity to make it responsive.
+
 
 
 # Getting Started with Create React App
