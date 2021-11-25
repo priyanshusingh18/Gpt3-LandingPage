@@ -23,7 +23,9 @@ our needs and capablities.
 The design was not responsive, so i had to use the power of imagination 
 and creativity to make it responsive.
 
+## Tech Stack
 
+**Client:** React
 
 # Getting Started with Create React App
 
